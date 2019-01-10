@@ -1,0 +1,2 @@
+# hadoopUtil
+Utils for hadoop.
